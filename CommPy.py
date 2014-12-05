@@ -11,7 +11,7 @@ Episodes = 5
 
 UserAgent = "Cedric501-Commute" # Put name of Redditor + project
 
-DestFolder = "/Users/cedriclendais/Documents/Commute/" # Where you want your files + the history of downloads
+DestFolder = "/Users/user/Documents/Commute/" # Where you want your files + the history of downloads
 
 ################################
 ######### Libraries ############
